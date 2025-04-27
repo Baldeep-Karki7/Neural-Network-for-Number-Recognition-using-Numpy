@@ -5,8 +5,8 @@ Created using Numpy only<br>
    . 10 neurons in each layer<br>
    . Densely connected<br>
    . Activation functions :<br> 
-                        Layer 1 : ReLu<br>
-                        Layer 2 : Softmax <br>
+                 <space>  <space>     Layer 1 : ReLu<br>
+                   <space><space>     Layer 2 : Softmax <br>
    . Mnist Dataset Used<br>
    .Accuracy : 80.4% <br>
 <br>
